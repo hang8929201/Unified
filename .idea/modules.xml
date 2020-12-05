@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Unified.iml" filepath="$PROJECT_DIR$/Unified.iml" />
-      <module fileurl="file://$PROJECT_DIR$/our-db-kernal/our-db-kernal.iml" filepath="$PROJECT_DIR$/our-db-kernal/our-db-kernal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/our-db-kernel/our-db-kernel.iml" filepath="$PROJECT_DIR$/our-db-kernel/our-db-kernel.iml" />
     </modules>
   </component>
 </project>
